@@ -40,7 +40,7 @@ I focus on building systems using **clean architecture**, **microservices**, **R
 ## 🧩 Professional Experience
 
 ### **FullStack Developer – AXEN IT Consulting**  
-**Jul 2022 – Nov 2025 | Salary Range: 60,000 – 70,000 MXN Net**
+**Jul 2022 – Nov 2025**
 
 Participated in multiple enterprise-level projects for high-profile clients, delivering analysis, development, and implementation of web applications, identity solutions, security enhancements, and internal systems.  
 Consistently worked with **Azure DevOps**, **CI/CD**, cloud architectures, and agile methodologies.
