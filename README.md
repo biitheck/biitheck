@@ -76,27 +76,23 @@ IT Consultant
 - Worked with AWS, Azure, .NET 2–9, Node.js, Angular, React, TypeScript, and SQL Server/MySQL.  
 - Implemented CI/CD pipelines using Azure DevOps and GitHub Actions.  
 - Collaborated directly with U.S. clients for requirements, planning, and delivery.  
-:contentReference[oaicite:1]{index=1}
 
 ### **DA7OS (2016 – 2020)**
 Cloud Applications Developer  
 - Designed and developed cloud-based applications (web & mobile).  
 - Worked with Azure, ASP.NET MVC, .NET Core, SQL Server, SignalR, Node.js, NoSQL, Xamarin.  
-:contentReference[oaicite:2]{index=2}
 
 ### **VPNStore Solutions (2013 – 2016)**
 Developer / Analyst  
 - Built desktop and web applications using VB6, VB.NET, C#, Java, PHP, and JavaScript.  
 - Managed SQL Server and MySQL databases.  
 - Implemented e-invoicing (CFDI v3.2).  
-:contentReference[oaicite:3]{index=3}
 
 ### Additional Roles  
 - INEEL – Research support for mobile SCADA.  
 - Grupo Tim – iOS + ASP.NET developer.  
 - ITL – Web developer.  
 - Gobierno de Morelos – Systems administration.  
-:contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -104,7 +100,6 @@ Developer / Analyst
 - **Master’s Degree in Information Technologies** – UNID (2013–2015)  
 - **Bachelor’s in Information Technologies** – UTEZ (2010–2012)  
 - **TSU in Networks & Telecom** – UTEZ (2008–2010)  
-:contentReference[oaicite:5]{index=5}
 
 ---
 
