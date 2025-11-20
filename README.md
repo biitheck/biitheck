@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alberto Barrera (Ripper)
 
 Senior FullStack Developer & IT Consultant with **14+ years of experience** designing and developing scalable, secure, and high-performance web and mobile applications.  
-Specialized in **.NET, C#, ASP.NET Core, Node.js, Angular, React, TypeScript, SQL**, and cloud platforms like **Azure** and **AWS**.  
-I focus on building systems using **clean architecture**, **microservices**, **REST APIs**, **GraphQL**, and modern DevOps tooling.
+Specialized in **.NET, C#, ASP.NET Core, Node.js, Angular, React, Vue, TypeScript, SQL**, and cloud platforms like **Azure** and **AWS**.  
+I focus on building systems using **clean architecture**, **SOLID**, clean code, **microservices**, **REST APIs**, **GraphQL**, and modern DevOps tooling.
 
 ---
 
